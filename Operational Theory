@@ -26,7 +26,8 @@ The current work flow is:
  2. Check if twitter handle is real and if profile is available to be read.  If not, send a failure response ("I ain't seen this cat before.")
  2. If handle does not have enough tweets on their profile to sustain value given, send them a failure response ("Y'all need to come up with some better material.")
  3. If over twee limit send them a failure response ("Who you tryin' to play here? I don't work for free.")
- 4. If all parameters met appropriately, start process of analysing twitter handle data.
+ 4. Check daily count for use of tools.  If API request (for datamuse) exceeds 100,000, send back failure response ("Yo, this homie's gotta take a break sometime.")
+ 5. If all parameters met appropriately, start process of analysing twitter handle data.
  
  How TwitterRaps will Reply:
  1. Tag handle that generated the request
