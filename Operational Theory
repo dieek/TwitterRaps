@@ -1,0 +1,35 @@
+This file is intended to layout the rough idea behind the logic of the software created.
+
+Current Scope is:
+  1. One twitter handle/user per rap
+  2. English language only 
+  3. Max of 24 tweets to reply with
+
+The current work flow is:
+  1. Look up a particular handle/user when tagged in a particular tweet and see how many tweets they've made.
+  2. Pull a majority/all tweets from that particular handle. (Not quite sure if there should be a limit.  Not certain how many users have have a massive amount of tweets.
+  3. Parse all tweets to look for the following:
+    a. Non-text based tweets to remove (pictures/links)
+    b. Last word in the tweet
+    c. Number of syllables of whole tweet
+    d. Number of syllables of last word
+ 4. Create specific variable criteria to define tweet to help match to other tweets
+    a. Ex. create an object "tweet" that has the parameters of "Syllables", "Last_Word_Syllables", "Last_Word_Rhyming" to programmatically evaluate and manage parsed information.
+ 5. Use Datamuse API (http://www.datamuse.com/api/) to retreive data based on values generated in item 4.
+ 6. When tweets have been sent to Datamuse, generate a way to rank responses to find best fitting tweets.
+ 7. After tweet order has been defined (not sure how to manage just yet), create shortcut links to tweets to use for posting.
+ 8. Reply
+ 
+ 
+ How to interact with TwitterRaps handle:
+ 1. Choose handle to search using "@XXXXXXX" followed by how many tweets the rap should contain (ex 10)
+ 2. Check if twitter handle is real and if profile is available to be read.  If not, send a failure response ("I ain't seen this cat before.")
+ 2. If handle does not have enough tweets on their profile to sustain value given, send them a failure response ("Y'all need to come up with some better material.")
+ 3. If over twee limit send them a failure response ("Who you tryin' to play here? I don't work for free.")
+ 4. If all parameters met appropriately, start process of analysing twitter handle data.
+ 
+ How TwitterRaps will Reply:
+ 1. Tag handle that generated the request
+ 2. Generate generic response ("Aight, aight, we lookin' good!")
+ 3. Reply to that initial tweet with a link to the first tweet chosen with a countdown of which tweet it is.  Ex. (1/10)
+ 4. When overall rap chain has been completed, send link to survey for feedback on rap ("Yo, lemme know whatchu think.")  
