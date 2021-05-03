@@ -1,0 +1,6 @@
+This file is to generate a list of sources for the tools used in this software.
+
+1. Datamuse.com's API (http://www.datamuse.com/api/)
+  a. There is a python package "python-datamuse" (https://pypi.org/project/python-datamuse/) if deciding to use python to develop.
+
+No other packages are identified as of yet, but the list will be updated as new tools are defined and used.
