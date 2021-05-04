@@ -3,5 +3,8 @@ This file is to generate a list of sources for the tools used in this software.
 1. Datamuse.com's API (http://www.datamuse.com/api/)
   a. There is a python package "python-datamuse" (https://pypi.org/project/python-datamuse/) if deciding to use python to develop.
   b. This service can be used with up to 100,000 requests per day without an API key.  keep a log of overall requests made?
+2. Use https://7esl.com/texting-abbreviations/ to create a library list of common shorthand to work with.  
+  a. Datamuse does not seem to catch popular internet/text shorthand (based on just one instance of searching of "wtf") so providing a pre-defined library will be best.
+
 
 No other packages are identified as of yet, but the list will be updated as new tools are defined and used.
