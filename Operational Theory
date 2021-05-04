@@ -13,24 +13,35 @@ The current work flow is:
     b. Last word in the tweet
     c. Number of syllables of whole tweet
     d. Number of syllables of last word
- 4. Create specific variable criteria to define tweet to help match to other tweets
+  4. Create specific variable criteria to define tweet to help match to other tweets
     a. Ex. create an object "tweet" that has the parameters of "Syllables", "Last_Word_Syllables", "Last_Word_Rhyming" to programmatically evaluate and manage parsed information.
- 5. Use Datamuse API (http://www.datamuse.com/api/) to retreive data based on values generated in item 4.
- 6. When tweets have been sent to Datamuse, generate a way to rank responses to find best fitting tweets.
- 7. After tweet order has been defined (not sure how to manage just yet), create shortcut links to tweets to use for posting.
- 8. Reply
+  5. Use Datamuse API (http://www.datamuse.com/api/) to retreive data based on values generated in item 4.
+  6. When tweet parsed words have been sent to Datamuse, generate a way to rank responses to find best fitting tweets.
+  7. After tweet order has been defined (not sure how to manage just yet), create shortcut links to tweets to use for posting.
+  8. Reply
+ 
+How to interact with TwitterRaps handle:
+  1. Choose handle to search using "@XXXXXXX" followed by how many tweets the rap should contain: i.e. "@x99520 24"
+  2. If all parameters met appropriately, start process of analysing twitter handle data.
+ 
+How TwitterRaps will Reply:
+  1. Tag handle that generated the request
+  2. Generate generic response ("Aight, aight, we lookin' good!")
+  3. Reply to that initial tweet with a link to the first tweet chosen with a countdown of which tweet it is.  Ex. (1/10)
+  4. When overall rap chain has been completed, send link to survey for feedback on rap ("Yo, lemme know whatchu think.")  
+ 
+How TwitterRaps deals with faults/parameters:
+  1. Check if twitter handle is real and if profile is available to be read.  If not, send a failure response ("I ain't seen this cat before.")
+  2. If handle does not have enough tweets on their profile to sustain value given, send them a failure response ("Y'all need to come up with some better material.")
+  3. If over tweet request limit send them a failure response ("Who you tryin' to play here? I don't work for free.")
+  4. Check daily count for use of tools.  If API request (for datamuse) exceeds 100,000, send back failure response ("Yo, this homie's gotta take a break sometime.")
+  5. If words within tweet cannot be handled appropriately via Datamuse or by internal library, send back failure response ("What are you even tryin' to say?  You whack.")
+ 
+How to handle requests:
+  1. If a particular user sends a second request to the bot within 60 seconds of their first, start a 5 minute timer.  If they request again, send a failure response ("You working me like a dog out here.  Chill tf out.") and give a time stamp 20 minutes later to when they can request again.
+  2. If a user requests again in that 15 minutes, send another failure response ("You're testing my patience.") and give a time stamp 2 hours later to when they can request again. 
+  3. If a user requests again in that 2 hour span, send failure response ("You done fucked up.").  Wait 5 minutes, then Ban/block user for 3 days.
+  4. If a user makes it to ban status, delete all tweets except ban tweet associated with that user request.
  
  
- How to interact with TwitterRaps handle:
- 1. Choose handle to search using "@XXXXXXX" followed by how many tweets the rap should contain (ex 10)
- 2. Check if twitter handle is real and if profile is available to be read.  If not, send a failure response ("I ain't seen this cat before.")
- 2. If handle does not have enough tweets on their profile to sustain value given, send them a failure response ("Y'all need to come up with some better material.")
- 3. If over twee limit send them a failure response ("Who you tryin' to play here? I don't work for free.")
- 4. Check daily count for use of tools.  If API request (for datamuse) exceeds 100,000, send back failure response ("Yo, this homie's gotta take a break sometime.")
- 5. If all parameters met appropriately, start process of analysing twitter handle data.
  
- How TwitterRaps will Reply:
- 1. Tag handle that generated the request
- 2. Generate generic response ("Aight, aight, we lookin' good!")
- 3. Reply to that initial tweet with a link to the first tweet chosen with a countdown of which tweet it is.  Ex. (1/10)
- 4. When overall rap chain has been completed, send link to survey for feedback on rap ("Yo, lemme know whatchu think.")  
