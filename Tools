@@ -1,12 +1,25 @@
-This file is to generate a list of sources for the tools used in this software.
+This file is to generate a list of sources for the tools used or considered for the bot.
+Ruled Out section will provide list of items removed from consideration and a simple explanation as to why.
 
-1. Datamuse.com's API (http://www.datamuse.com/api/)
-  a. There is a python package "python-datamuse" (https://pypi.org/project/python-datamuse/) if deciding to use python to develop.
-  b. This service can be used with up to 100,000 requests per day without an API key.  keep a log of overall requests made?
-2. Use 7ESL list (https://7esl.com/texting-abbreviations/) to create a library list of common shorthand to work with.  
-  a. Datamuse does not seem to catch popular internet/text shorthand (based on just one instance of searching of "wtf") so providing a pre-defined library will be best.
-3. Use of Tweepy (https://docs.tweepy.org), twitter api package for python
-  a. Personally most comfortable with Python, so I thought I'd check this out.  May try other languages if presented with better framework.
+Software:
+  1. Datamuse.com's API
+    a. There is a python package "python-datamuse" (https://pypi.org/project/python-datamuse/) if deciding to use python to develop.
+    b. This service can be used with up to 100,000 requests per day without an API key.  keep a log of overall requests made?
+    http://www.datamuse.com/api/
+  2. Use 7ESL list  to create a library list of common shorthand to work with.  
+    a. Datamuse does not seem to catch popular internet/text shorthand (based on just one instance of searching of "wtf") so providing a pre-defined library will be best.
+    https://7esl.com/texting-abbreviations/
+  3. Use of Tweepy, twitter api package for python
+    a. Personally most comfortable with Python, so I thought I'd check this out.  May try other languages if presented with better framework.
+    https://docs.tweepy.org
 
+Hardware:
+  1. AWS Lamda (as a free way to host the bot until maturity) 
+    https://aws.amazon.com/lambda/
+  2. Heroku (another common platform to consider to host bots/web crawlers.)
+    https://www.heroku.com/
 
 No other packages are identified as of yet, but the list will be updated as new tools are defined and used.
+
+Ruled Out:
+n/a
