@@ -13,7 +13,10 @@ Software:
     a. Personally most comfortable with Python, so I thought I'd check this out.  May try other languages if presented with better framework.
     https://docs.tweepy.org
   4. Possibly use javascript to create twitter bot, host via node.js stack.  
+    a. Creating a twitter bot in javascript
     https://lelouchb.medium.com/create-a-simple-yet-effective-twitter-bot-in-nodejs-javascript-4fbabc359404 
+    b. Creating a node.js stack
+    https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/
 
 Hardware:
   1. AWS Lamda (as a free way to host the bot until maturity) 
