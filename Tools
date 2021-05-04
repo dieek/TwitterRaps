@@ -17,12 +17,17 @@ Software:
     https://lelouchb.medium.com/create-a-simple-yet-effective-twitter-bot-in-nodejs-javascript-4fbabc359404 
     b. Creating a node.js stack
     https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/
+  5. PHP/Apache/etc based on usage of Synology NAS
+    https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Service_Application/How_to_host_a_website_on_Synology_NAS
 
 Hardware:
   1. AWS Lamda (as a free way to host the bot until maturity) 
     https://aws.amazon.com/lambda/
   2. Heroku (another common platform to consider to host bots/web crawlers.)
     https://www.heroku.com/
+  3. Personal Synology NAS as a a server to run bot
+    (Not providing information on personal hardware within this spec.)
+    https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Service_Application/How_to_host_a_website_on_Synology_NAS
 
 No other packages are identified as of yet, but the list will be updated as new tools are defined and used.
 
