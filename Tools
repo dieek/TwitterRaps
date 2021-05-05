@@ -31,6 +31,8 @@ Hardware:
   3. Personal Synology NAS as a a server to run bot
     (Not providing information on personal hardware within this spec.)
     https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Service_Application/How_to_host_a_website_on_Synology_NAS
+    (how to set up personal website, and services, on NAS.)
+    https://www.youtube.com/watch?v=p4Q94m5lOoE
 
 No other packages are identified as of yet, but the list will be updated as new tools are defined and used.
 
