@@ -9,6 +9,9 @@ Software:
   2. Use 7ESL list  to create a library list of common shorthand to work with.  
     a. Datamuse does not seem to catch popular internet/text shorthand (based on just one instance of searching of "wtf") so providing a pre-defined library will be best.
     https://7esl.com/texting-abbreviations/
+      i. Set up predefined dictionary object in JS or Python to check parsed text against
+      ii. Generate dictionary object from two arrays, first with shorthand, second with full word   
+    b. Run dictionary every input event in case updates are made.
   3. Use of Tweepy, twitter api package for python
     a. Personally most comfortable with Python, so I thought I'd check this out.  May try other languages if presented with better framework.
     https://docs.tweepy.org
