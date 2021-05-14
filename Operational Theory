@@ -1,5 +1,9 @@
 This file is intended to layout the rough idea behind the logic of the software created.
 
+Preface: 
+  1. In looking to build and test, initial runs of input to the bot will take place via a simple web interface.  This will be a starting measure to learn to manipulate
+    the twitter API. Current site is under construction, but accessible.
+
 Current Scope is:
   1. One twitter handle/user per rap
   2. English language only 
