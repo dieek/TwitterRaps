@@ -1,0 +1,19 @@
+// The purpose of this file is to take the parsed/transformed tweet to work with Datamuse API.
+// Each tweet will be assigned a rating for syllable count and how many words rhyme with the last word.
+// Syllable count is to help keep a good flow when reading through separate tweets
+// If a tweet has a last word that has only one or two identifiable rhyming words, it may be more difficult to find a match among the user's other tweets. 
+//
+// The idea is to construct a URL to ping that will return usable JSON information
+// The following construction is based around the following:
+// Starting url: https://api.datamuse.com/
+// Appending for words that rhyme with forgetful	/words?rel_rhy=forgetful  (so, full link is https://api.datamuse.com/words?rel_rhy=forgetful)
+// 
+// There are metadata tags that add syllable count to the words from datamuse, thought I am not certain this will be an appropriate use to ping that consistently just for syllable count
+//
+// Found the following from searching through stack overflow:
+// https://github.com/aparrish/pronouncingjs
+// Javascript library to create syllable count of words
+//
+// Also from stack overflow
+// https://stackoverflow.com/a/51175267
+// A short piece of script that roughly calculates syllable count (though it is not fool proof)
