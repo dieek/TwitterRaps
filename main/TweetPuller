@@ -1,0 +1,8 @@
+// This file will be the basis of pulling tweets from a particular user's timeline
+// Once tweets are pulled, then comes parsing and analyzing
+// Exploring user's tweets has some basic info from the twitter API.
+//
+// The below links will give context on next steps to build this piece of code
+//
+// https://github.com/twitterdev/Twitter-API-v2-sample-code/blob/master/Recent-Search/recent_search.js
+// https://developer.twitter.com/en/docs/tutorials/explore-a-users-tweets
