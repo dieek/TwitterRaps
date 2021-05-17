@@ -18,113 +18,116 @@ ADR, Address
 AEAP, As Early As Possible
 AFAIC, As Far As I am Concerned
 AFAIK, As Far As I know
-AKA = Also Known As
-AMA= Ask Me Anything
-AMBW = All My Best Wishes
-AML = All My Love
-AOTA = All Of The Above
-ASAP = As Soon As Possible
-ATB = All The Best
-ATEOTD = At The End Of The Day
-ATM = At The Moment
-AWOL = Absent Without Leave
-AYDY = Are You Done Yet?
-AYEC = At Your Earliest Convenience
-AYOR =  At Your Own Risk
-AYS =  Are You Serious?
-AYSOS = Are You Stupid Or Something?
-AYT = Are You There?
-B/C = Because
-B4 = Before
-B4N = Bye For Now
-BAU = Business As Usual
-BBIAF = Be Back In A Few
-BBIAM = Be Back In A Minute
-BBIAS = Be Back In A Sec
-BBS = Be Back Soon
-BBT= Be Back Tomorrow
-BCNU = Be Seeing You
-BCOY = Big Crush On You
-BD = Big Deal
-BF = Best Friend
-BFAW = Best Friend At Work
-BFD = Big Freaking Deal
-BFF = Best Friends Forever
-BFFN = Best Friend For Now
-BFN = Bye For Now
-BG = Big Grin
-BGWM = Be Gentle With Me
-BHL8 = Be Home Late
-BIB = Boss Is Back
-BN= Bad News
-BOL = Be On Later
-BOT = Back On Topic
-BOYF = Boyfriend
-BRB = Be Right Back
-BRH = Be Right Here
-BRO = Brother
-BRT = Be Right There
-BT = But
-BTW = By The Way
-BYOC = Bring Your Own Computer
-CMB = Call Me Back
-CMIIW = Correct Me If I’m Wrong
-COB = Close Of Business
-CSL= Can’t Stop Laughing
-CU = See You
-CUA = See You Around
-CUL= See You Later
-CWYL = Chat With You Later
-CYA = Cover Your Ass
-CYE = Check Your E-mail
-CYO = See You Online
-DKDC = Don’t Know, Don’t Care
-DM = Direct Message
-DTS = Don’t Think So
-DUR = Do You Remember?
-DWBH = Don’t Worry, Be Happy
-E1= Everyone
-EF4T = Effort
-EOD = End Of Discussion
-2F or FTF = Face To Face
-FAQ = Frequently Asked Questions
-FB = Facebook
-FF = Follow Friday
-FISH = First In, Still Here
-FITB = Fill In The Blank
-FTBOMH = From The Bottom Of My Heart
-FTL = For The Loss / For The Lose
-FTW = For The Win
-FWB = Friend With Benefits
-FWIW = For What It’s Worth
-FYEO = For Your Eyes Only
-FYI = For Your Information
-G4C = Going For Coffee
-GA = Go Ahead
-GAC = Get A Clue
-GAS = Greetings And Salutations
-GB = Goodbye
-GBU = God Bless You
-GF = Girl Friend
-GFN = Gone For Now
-GLHF = Good Luck, Have Fun
-GMTA = Great Minds Think Alike
-GNITE = Good Night
-GR8 =  Great
-GRATZ = Congratulations
-GRL = Girl
-GTSY = Great (or good) To See You
-H&K = Hugs & Kisses
-H2CUS = Hope To See You Soon
-H8 = Hate
-HAG1 =  Have A Good One
-HAGN = Have A Good Night
-HAND = Have A Nice Day
-HMB = Hit Be Back
-HMU = Hit Me Up
-HOAS = Hold On A Second
-HRU = How Are You
-HT or H/T = Hat Tip or Heard Through
+AKA, Also Known As
+AMA, Ask Me Anything
+AMBW, All My Best Wishes
+AML, All My Love
+AOTA, All Of The Above
+ASAP, As Soon As Possible
+ATB, All The Best
+ATEOTD, At The End Of The Day
+ATM, At The Moment
+AWOL, Absent Without Leave
+AYDY, Are You Done Yet?
+AYEC, At Your Earliest Convenience
+AYOR,  At Your Own Risk
+AYS,  Are You Serious?
+AYSOS, Are You Stupid Or Something?
+AYT, Are You There?
+B/C, Because
+bc, Because
+B4, Before
+B4N, Bye For Now
+BAU, Business As Usual
+BBIAF, Be Back In A Few
+BBIAM, Be Back In A Minute
+BBIAS, Be Back In A Sec
+BBS, Be Back Soon
+BBT, Be Back Tomorrow
+BCNU, Be Seeing You
+BCOY, Big Crush On You
+BD, Big Deal
+BF, Best Friend
+BFAW, Best Friend At Work
+BFD, Big Freaking Deal
+BFF, Best Friends Forever
+BFFN, Best Friend For Now
+BFN, Bye For Now
+BG, Big Grin
+BGWM, Be Gentle With Me
+BHL8, Be Home Late
+BIB, Boss Is Back
+BN, Bad News
+BOL, Be On Later
+BOT, Back On Topic
+BOYF, Boyfriend
+BRB, Be Right Back
+BRH, Be Right Here
+BRO, Brother
+BRT, Be Right There
+BT, But
+BTW, By The Way
+BYOC, Bring Your Own Computer
+CMB, Call Me Back
+CMIIW, Correct Me If I’m Wrong
+COB, Close Of Business
+CSL, Can’t Stop Laughing
+CU, See You
+CUA, See You Around
+CUL, See You Later
+CWYL, Chat With You Later
+CYA, Cover Your Ass
+CYE, Check Your E-mail
+CYO, See You Online
+DKDC, Don’t Know, Don’t Care
+DM, Direct Message
+DTS, Don’t Think So
+DUR, Do You Remember?
+DWBH, Don’t Worry, Be Happy
+E1, Everyone
+EF4T, Effort
+EOD, End Of Discussion
+F2F, Face To Face
+FTF, Face To Face
+FAQ, Frequently Asked Questions
+FB, Facebook
+FF, Follow Friday
+FISH, First In, Still Here
+FITB, Fill In The Blank
+FTBOMH, From The Bottom Of My Heart
+FTL, For The Loss / For The Lose
+FTW, For The Win
+FWB, Friend With Benefits
+FWIW, For What It’s Worth
+FYEO, For Your Eyes Only
+FYI, For Your Information
+G4C, Going For Coffee
+GA, Go Ahead
+GAC, Get A Clue
+GAS, Greetings And Salutations
+GB, Goodbye
+GBU, God Bless You
+GF, Girl Friend
+GFN, Gone For Now
+GLHF, Good Luck, Have Fun
+GMTA, Great Minds Think Alike
+GNITE, Good Night
+GR8,  Great
+GRATZ, Congratulations
+GRL, Girl
+GTSY, Good To See You
+H&K, Hugs & Kisses
+H2CUS, Hope To See You Soon
+H8, Hate
+HAG1,  Have A Good One
+HAGN, Have A Good Night
+HAND, Have A Nice Day
+HMB, Hit Be Back
+HMU, Hit Me Up
+HOAS, Hold On A Second
+HRU, How Are You
+HT, Hat Tip
+H/T, Hat Tip
 HTH = Hope This Helps / Happy To Help
 HW = Homework
 IAC = In Any Case
@@ -6734,111 +6737,109 @@ WYUT 	What You Up To
 WYW 	Whatever You Want
 WYWH 	Wish You Were Here
 WYWTA 	What You Wanna Talk About
-Text Abbreviations (Y)
-Acronym 	Meaning
-YAGB 	You Ain’t Grizz Baby ( )
-YALA 	You Always Live Again
-YANA 	You Are Not Alone
-YATB 	You Are The Best
-YATK 	You Are Too Kind
-YATLOML 	You Are The Love Of My Life
-YAVW 	You Are Very Welcome
-YAW 	You Are Welcome
-YBS 	You’ll Be Sorry
-YBTJ 	You Be The Judge
-YBW 	You’ve Been Warned
-YBWM 	You Belong With Me
-YCMIU 	You Couldn’t Make It Up
-YCMU 	You Crack Me Up
-YDEK 	You Don’t Even Know
-YDI 	You Deserve It
-YDK 	You Don’t Know
-YDL 	Yellow Dog Linux
-YDMS 	You Don’t Make Sense
-YDMT 	You Don’t Mean That
-YDS 	You Don’t Say
-YDU 	You Don’t Understand
-YF 	Your Friend
-YFW 	Your Face When …
-YG 	Young Gangster
-YGG 	You Go Girl
-YGI 	You Got It
-YGLT 	You’re Gonna Love This
-YGM 	You Get Me? You’ve Got Mail
-YGPM 	You’ve Got Private Message
-YGTBK 	You’ve Got To Be Kidding
-YGTBKM 	You’ve Got To Be Kidding Me
-YGTI 	You Get The Idea
-YGTR 	You Got That Right
-YHA 	Youth Hostel Association
-YHBT 	You Have Been Trolled
-YHBW 	You Have Been Warned
-YHGASP 	You Have Got A Serious Problem
-YHL 	You Have Lost
-YHM 	You Have Mail
-YHNI 	You Have No Idea
-YHTBT 	You Had To Be There
-YID 	Yes I Do
-YIK 	Yes, I Know
-YITB 	Yours In The Bond
-YITE 	Are You All Right?
-YJLTG 	You Just Lost The Game
-YK 	You’re Kidding
-YKHII 	You Know How It Is
-YKIMS 	You Know It Makes Sense
-YKTR 	You Know the Rest
-YKW 	You Know Who
-YKWIM 	You Know What I Mean
-YKWIS 	You Know What I’m Saying?
-YKYLM 	You Know You Love Me
-YL 	Young Lady
-YLI 	You Love It
-YLM 	You Love Me?
-YLOD 	Yellow Light Of Death
-YLYL 	You Laugh You Lose
-YM 	Yahoo Messenger Your Mom
-YMBJ 	You Must Be Joking
-YMCA 	Young Mens Christian Association
-YMCMB 	Young Money Cash Money Billionaires
-YMMD 	You Made My Day
-YMML 	You Make Me Laugh
-YMMS 	You Make Me Smile
-YMMV 	Your Mileage May Vary
-YMW 	You’re Most Welcome
-YNK 	You Never Know
-YNW 	You’re Not Welcome
-YNWA 	You’ll Never Walk Alone
-YOLF 	You Only Live Forever
-YOLO 	You Only Live Once
-YOMB 	You Owe Me Big
-YOYO 	You’re On Your Own
-YP 	Your Problem Yes, Please
-YQW 	You’re Quite Welcome
-YR 	Yea, Right.
-YRG 	You Are Good!
-YRMV 	Your Results May Vary
-YRO 	Your Rights Online
-YRU 	Why Are You…?
-YSC 	Your So Cute
-YSI 	You Stupid Idiot
-YSK 	You Should Know
-YSMTU 	You So Made That Up
-YSS 	You Suck Severely
-YSVW 	You’re So Very Welcome
-YSYL 	You Snooze, You Loose
-YT? 	You Think ?
-YTB 	You’re The Best
-YTD 	Year To Date
-YTM 	You’re The Man
-YTML 	You’ll Thank Me Later
-YTMND 	You’re The Man Now, Dog (website)
-YTO 	You’re The One
-YTP 	YouTube Poop
-YTTM 	You Talk Too Much You Talking To Me?
-YUM 	Said when something tastes good or is attractive
-YVW 	You’re Very Welcome
-YW 	You’re Welcome
-YWCA 	Young Women’s Christian Association
-YWIMC 	Your Wish Is My Command
-YWSYLS 	You Win Some, You Lose Some
-YWU? 	Yo Waz Up?
+
+YAGB, You Ain’t Grizz Baby
+YALA, You Always Live Again
+YANA, You Are Not Alone
+YATB, You Are The Best
+YATK, You Are Too Kind
+YATLOML, You Are The Love Of My Life
+YAVW, You Are Very Welcome
+YAW, You Are Welcome
+YBS, You’ll Be Sorry
+YBTJ, You Be The Judge
+YBW, You’ve Been Warned
+YBWM, You Belong With Me
+YCMIU, You Couldn’t Make It Up
+YCMU, You Crack Me Up
+YDEK, You Don’t Even Know
+YDI, You Deserve It
+YDK, You Don’t Know
+YDL, Yellow Dog Linux
+YDMS, You Don’t Make Sense
+YDMT, You Don’t Mean That
+YDS, You Don’t Say
+YDU, You Don’t Understand
+YF, Your Friend
+YFW, Your Face When
+YG, Young Gangster
+YGG, You Go Girl
+YGI, You Got It
+YGLT, You’re Gonna Love This
+//YGM, You Get Me? You’ve Got Mail
+YGPM, You’ve Got Private Message
+YGTBK, You’ve Got To Be Kidding
+YGTBKM, You’ve Got To Be Kidding Me
+YGTI, You Get The Idea
+YGTR, You Got That Right
+YHA, Youth Hostel Association
+YHBT, You Have Been Trolled
+YHBW, You Have Been Warned
+YHGASP, You Have Got A Serious Problem
+YHL, You Have Lost
+YHM, You Have Mail
+YHNI, You Have No Idea
+YHTBT, You Had To Be There
+YID, Yes I Do
+YIK, Yes I Know
+YITB, Yours In The Bond
+YITE, Are You All Right
+YJLTG, You Just Lost The Game
+YK, You’re Kidding
+YKHII, You Know How It Is
+YKIMS, You Know It Makes Sense
+YKTR, You Know the Rest
+YKW, You Know Who
+YKWIM, You Know What I Mean
+YKWIS, You Know What I’m Saying
+YKYLM, You Know You Love Me
+YL, Young Lady
+YLI, You Love It
+YLM, You Love Me
+YLOD, Yellow Light Of Death
+YLYL, You Laugh You Lose
+//YM, Yahoo Messenger Your Mom
+YMBJ, You Must Be Joking
+YMCA, Young Mens Christian Association
+YMCMB, Young Money Cash Money Billionaires
+YMMD, You Made My Day
+YMML, You Make Me Laugh
+YMMS, You Make Me Smile
+YMMV, Your Mileage May Vary
+YMW, You’re Most Welcome
+YNK, You Never Know
+YNW, You’re Not Welcome
+YNWA, You’ll Never Walk Alone
+YOLF, You Only Live Forever
+YOLO, You Only Live Once
+YOMB, You Owe Me Big
+YOYO, You’re On Your Own
+//YP, Your Problem/ Yes, Please
+YQW, You’re Quite Welcome
+YR, Yea, Right
+YRG, You Are Good
+YRMV, Your Results May Vary
+YRO, Your Rights Online
+YRU, Why Are You
+YSC, Your So Cute
+YSI, You Stupid Idiot
+YSK, You Should Know
+YSMTU, You So Made That Up
+YSS, You Suck Severely
+YSVW, You’re So Very Welcome
+//YSYL, You Snooze, You Loose
+YT, You Think
+YTB, You’re The Best
+YTD, Year To Date
+YTM, You’re The Man
+YTML, You’ll Thank Me Later
+//YTMND, You’re The Man Now, Dog (website)
+YTO, You’re The One
+YTP, YouTube Poop
+YTTM, You Talk Too Much
+YVW, You’re Very Welcome
+YW, You’re Welcome
+YWCA, Young Women’s Christian Association
+YWIMC, Your Wish Is My Command
+//YWSYLS, You Win Some, You Lose Some
+YWU, Yo Waz Up
