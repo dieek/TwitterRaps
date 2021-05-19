@@ -27,6 +27,11 @@ Software:
   5. PHP/Apache/etc based on usage of Synology NAS
     https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Service_Application/How_to_host_a_website_on_Synology_NAS
 
+Stack:
+  1. Browser framework options: Vue, React - undecided
+  2. Server options: PHP, Node - Undecided, based on how well synology supports
+  3. Database options: SQL, SQL Lite, MongoDB - undecided
+
 Hardware:
   1. Personal Synology NAS as a a server to run bot
     To set up website/service on Synology NAS - following steps were taken:
