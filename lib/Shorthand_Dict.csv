@@ -9,7 +9,7 @@ Abbreviation, Meaning
 4EAE, For Ever And Ever
 AAF, As A Friend
 AAR, At Any Rate
-AAYF, As Always, Your Friend
+AAYF, As Always Your Friend
 ABD, Already Been Done
 ACK, Acknowledge
 ADIH, Another Day In Hell
@@ -83,7 +83,7 @@ DKDC, Don’t Know, Don’t Care
 DM, Direct Message
 DTS, Don’t Think So
 DUR, Do You Remember?
-DWBH, Don’t Worry, Be Happy
+DWBH, Don’t Worry Be Happy
 E1, Everyone
 EF4T, Effort
 EOD, End Of Discussion
@@ -92,10 +92,11 @@ FTF, Face To Face
 FAQ, Frequently Asked Questions
 FB, Facebook
 FF, Follow Friday
-FISH, First In, Still Here
+FISH, First In Still Here
 FITB, Fill In The Blank
 FTBOMH, From The Bottom Of My Heart
-FTL, For The Loss / For The Lose
+//FTL, For The Loss
+//FTL, Faster Than Light
 FTW, For The Win
 FWB, Friend With Benefits
 FWIW, For What It’s Worth
@@ -109,14 +110,14 @@ GB, Goodbye
 GBU, God Bless You
 GF, Girl Friend
 GFN, Gone For Now
-GLHF, Good Luck, Have Fun
+GLHF, Good Luck Have Fun
 GMTA, Great Minds Think Alike
 GNITE, Good Night
 GR8,  Great
 GRATZ, Congratulations
 GRL, Girl
 GTSY, Good To See You
-H&K, Hugs & Kisses
+H&K, Hugs and Kisses
 H2CUS, Hope To See You Soon
 H8, Hate
 HAG1,  Have A Good One
@@ -128,602 +129,599 @@ HOAS, Hold On A Second
 HRU, How Are You
 HT, Hat Tip
 H/T, Hat Tip
-HTH = Hope This Helps / Happy To Help
-HW = Homework
-IAC = In Any Case
-IAE = In Any Event
-IANAL = I Am Not A Lawyer
-IAO = I Am Out (of here)
-IC = I See
-ICYMI = In Case You Missed It
-IDC = I Don’t Care
-IHNI =I have no idea
-IIRC = If I Remember Correctly
-IKR = I Know Right
-ILY = I Love You
-IM =  Instant Message
-IMHO = In My Humble Opinion
-IMO = In My Opinion
-IMS = I Am Sorry
-IRL = In Real Life
-ISLY = I Still Love You
-ISO = In Search Of
-IU2U = It’s Up To You
-IYKWIM = If You Know What I Mean
-J/K = Just Kidding
-J4F/JFF = Just For Fun
-JIC= Just In Case
-JLMK = Just Let Me Know
-JMO = Just My Opinion
-JSYK = Just So You Know
-JW = Just Wondering
-K or KK = Okay
-KISS = Keep It Simple, Stupid
-KIT = Keep In Touch
-L8 = Late
-L8R = Later
-LHO = Laughing Head Off
-LMAO = Laughing My Ass Off
-LMBO = Laughing My Butt Off
-LMK = Let Me Know
-LOL = Lots Of Love
-LOL = Laughing Out Loud
-LOTI = Laughing On The Inside
-LTNS = Long Time No See
-LYLAS = Love You Like A Sister
-LYSM = Love You So Much
-MC = Merry Christmas
-MGMT = Management
-MM = Music Monday
-MSM = Mainstream Media
-MU = Miss You
-MYOB = Mind Your Own Business
-NAGI = Not A Good Idea
-NFM = Not For Me
-NFS = Not For Sale
-NM = Nothing Much
-NM = Not Much
-NOYB = None Of Your Business
-NP = No Problem
-NSFL = Not Safe For Life
-NSFW = Not Safe For Work
-NTS = Note To Self
-NVM = Never Mind
-OH = Overheard
-OIC = Oh, I See
-OMG = Oh My God
-OMW= On My Way
-ORLY = Oh, Really?
-OT = Off Topic
-OTB = Off To Bed
-OTOH = On The Other Hand
-OTP = On The Phone
-OTT = Over The Top
-PAW = Parents Are Watching
-PCM = Please Call Me
-PLS = Please
-POV = Point Of View
-PPL = People
-PTB = Please Text Back
-PTMM = Please Tell Me More
-QQ = Crying
-RAK = Random Act of Kindness
-RBTL = Read Between The Lines
-RIP = Rest In Peace
-RL = Real Life
-ROFL = Rolling On the Floor Laughing
-RT = Real Time
-RTM or RTFM = Read The Manual
-RYS = Are You Single?
-SBY = Somebody
-SFAIK= So Far As I Know
-SH= Shit Happens
-SIMYC = Sorry I Missed Your Call
-SIS = Sister
-SITD = Still In The Dark
-SMH = Shaking My Head
-SOL = Sooner Or Later
-SRSLY = Seriously
-SRY = Sorry
-SSDD = Same Stuff, Different Day
-STBY = Sucks To Be You
-SWAK = Sealed (or Sent) With A Kiss
-SWYP = So, What’s Your Problem?
-TAFN =  That’s All For Now
-TBA = To Be Announced
-TBC = To Be Continued
-TBH = To Be Honest
-TBL = Text back later
-TCB = Take care of business
-TFH = Thread From Hell
-TFS = Thanks For Sharing
-TFTI = Thanks For The Invitation
-TGIF = Thank God It’s Friday
-THX = Thanks
-TIA= Thanks In Advance
-TIAD = Tomorrow Is Another Day
-TIME = Tears In My Eyes
-TLC = Tender Loving Care
-TLK2UL8R = Talk To You Later
-TMI = Too Much Information
-TMRW = Tomorrow
-TTYL = Talk To You Later
-TTYS = Talk To You Soon
-TYFYC = Thank You For Your Comment
-TYVM = Thank You Very Much
-U4E = You Forever
-UR = Your
-VAT = Value Added Tax
-VBG = Very Big Grin
-VSF = Very Sad Face
-WAM = Wait A Minute
-WB = Welcome Back
-WC = Who Cares
-WE = Whatever
-WEG = Wicked Evil Grin
-WITP = What Is The Point?
-WKND = Weekend
-WTF = What The Fuck
-WTH= What The Heck
-WTPA = Where The Party At
-WUF = Where Are You From
-WYCM = Will You Call Me
-WYWH = Wish You Were Here
-XLNT = Excellent
-XOXO = Hugs and Kisses
-YCMU = You Crack Me Up
-YGM = You’ve Got Mail
-YMMV = Your Mileage May Vary
-YOLO = You Only Live Once
-YTB = You’re The Best
-YW = You’re Welcome
-YWSYLS = You Win Some, You Lose Some
+HTH, Hope This Helps
+HW, Homework
+IAC, In Any Case
+IAE, In Any Event
+IANAL, I Am Not A Lawyer
+IAO, I Am Out
+IC, I See
+ICYMI, In Case You Missed It
+IDC, I Don’t Care
+IHNI, I have no idea
+IIRC, If I Remember Correctly
+IKR, I Know Right
+ILY, I Love You
+IM,  Instant Message
+IMHO, In My Humble Opinion
+IMO, In My Opinion
+IMS, I Am Sorry
+IRL, In Real Life
+ISLY, I Still Love You
+ISO, In Search Of
+IU2U, It’s Up To You
+IYKWIM, If You Know What I Mean
+J/K, Just Kidding
+jk, Just Kidding
+J4F, Just For Fun
+JFF, Just For Fun
+JIC, Just In Case
+JLMK, Just Let Me Know
+JMO, Just My Opinion
+JSYK, Just So You Know
+JW, Just Wondering
+K, Okay
+KK, Okay
+KISS, Keep It Simple Stupid
+KIT, Keep In Touch
+L8, Late
+L8R, Later
+LHO, Laughing Head Off
+LMAO, Laughing My Ass Off
+LMBO, Laughing My Butt Off
+LMK, Let Me Know
+LOL, Lots Of Love
+LOL, Laughing Out Loud
+LOTI, Laughing On The Inside
+LTNS, Long Time No See
+LYLAS, Love You Like A Sister
+LYSM, Love You So Much
+MC, Merry Christmas
+MGMT, Management
+MM, Music Monday
+MSM, Mainstream Media
+MU, Miss You
+MYOB, Mind Your Own Business
+NAGI, Not A Good Idea
+NFM, Not For Me
+NFS, Not For Sale
+NM, Nothing Much
+NOYB, None Of Your Business
+NP, No Problem
+NSFL, Not Safe For Life
+NSFW, Not Safe For Work
+NTS, Note To Self
+NVM, Never Mind
+OH, Overheard
+OIC, Oh I See
+OMG, Oh My God
+OMW, On My Way
+ORLY, Oh Really?
+OT, Off Topic
+OTB, Off To Bed
+OTOH, On The Other Hand
+OTP, On The Phone
+OTT, Over The Top
+PAW, Parents Are Watching
+PCM, Please Call Me
+PLS, Please
+POV, Point Of View
+PPL, People
+PTB, Please Text Back
+PTMM, Please Tell Me More
+QQ, Crying
+RAK, Random Act of Kindness
+RBTL, Read Between The Lines
+RIP, Rest In Peace
+RL, Real Life
+ROFL, Rolling On the Floor Laughing
+RT, Real Time
+RTM, Read The Manual
+RTFM, Read The Fucking Manual
+RYS, Are You Single?
+SBY, Somebody
+SFAIK, So Far As I Know
+SH, Shit Happens
+SIMYC, Sorry I Missed Your Call
+SIS, Sister
+SITD, Still In The Dark
+SMH, Shaking My Head
+SOL, Sooner Or Later
+SRSLY, Seriously
+SRY, Sorry
+SSDD, Same Shit Different Day
+STBY, Sucks To Be You
+SWAK, Sealed (or Sent) With A Kiss
+SWYP, So What’s Your Problem?
+TAFN, That’s All For Now
+TBA, To Be Announced
+TBC, To Be Continued
+TBH, To Be Honest
+TBD, To Be Determined
+TBL, Text back later
+TCB, Take care of business
+TFH, Thread From Hell
+TFS, Thanks For Sharing
+TFTI, Thanks For The Invitation
+TGIF, Thank God It’s Friday
+THX, Thanks
+TIA, Thanks In Advance
+TIAD, Tomorrow Is Another Day
+TIME, Tears In My Eyes
+TLC, Tender Loving Care
+TLK2UL8R, Talk To You Later
+TMI, Too Much Information
+TMRW, Tomorrow
+TTYL, Talk To You Later
+TTYS, Talk To You Soon
+TYFYC, Thank You For Your Comment
+TYVM, Thank You Very Much
+U4E, You Forever
+UR, Your
+VAT, Value Added Tax
+VBG, Very Big Grin
+VSF, Very Sad Face
+WAM, Wait A Minute
+WB, Welcome Back
+WC, Who Cares
+WE, Whatever
+WEG, Wicked Evil Grin
+WITP, What Is The Point?
+WKND, Weekend
+WTF, What The Fuck
+WTH, What The Heck
+WTPA, Where The Party At
+WUF, Where Are You From
+WYCM, Will You Call Me
+WYWH, Wish You Were Here
+XLNT, Excellent
+XOXO, Hugs and Kisses
+YCMU, You Crack Me Up
+YGM, You’ve Got Mail
+YMMV, Your Mileage May Vary
+YOLO, You Only Live Once
+YTB, You’re The Best
+YW, You’re Welcome
+YWSYLS, You Win Some You Lose Some
 
-AAB 	Average At Best
-AAC 	Apple Audio Compression
-AAF 	Always and Forever
-AAK 	Alive And Kicking
-AAMOF 	As A Matter Of Fact
-AAP 	Always A Pleasure
-AAR 	At Any Rate
-AARP 	American Association of Retired Persons
-AAT 	And Another Thing At All Times
-AAWY 	And Also With You
-AAYF 	As Always, Your Friend
-ABC 	American Born Chinese
-ABD 	Already Been Done
-ABDC 	America’s Best Dance Crew (TV show)
-ABF 	All But Face
-ABFAB 	Absolutely Fabulous
-ABG 	Asian Baby Girl
-ABH 	Actual Bodily Harm
-ABP 	Already Been Posted
-ABU 	Anyone but (Manchester) United
-AC 	Air Conditioning Alternating Current
-ACLU 	American Civil Liberties Union
-ACME 	A Company that Makes Everything
-ACP 	Automatic Colt Pistol
-ACTA 	Anti-Counterfeiting Trade Agreement
-ACU 	Army Combat Uniform
-AD 	Anno Domini (in the year of our Lord)
-ADAD 	Another Day Another Dollar
-ADD 	Attention Deficit Disorder
-ADED 	All Day Every Day
-ADGTH 	All Dogs Go To Heaven
-ADHD 	Attention Deficit Hyperactivity Disorder
-ADL 	All Day Long
-ADN 	Any Day Now
-ADR 	All Due Respect
-ADS 	Aim(ing) Down Sights
-ADSL 	Asymmetric Digital Subscriber Line
-ADTR 	A Day To Remember (band)
-AE 	American Eagle (clothing)
-AEAE 	And Ever And Ever
-AEAP 	As Early As Possible
-AFAIA 	As Far As I’m Aware
-AFAIAA 	As Far As I Am Aware
-AFAIAC 	As Far As I Am Concerned
-AFAIC 	As Far As I’m Concerned
-AFAICS 	As Far As I Can See
-AFAICT 	As Far As I Can Tell
-AFAIK 	As Far As I Know
-AFAIR 	As Far As I Remember
-AFAP 	As Far As Possible
-AFC 	Away From Computer
-AFFA 	Angels Forever, Forever Angels
-AFI 	A Fire Inside (Band)
-AFK 	Away From Keyboard
-AFL 	Australian Football League
-AFN 	All For Now
-AFP 	Away From Phone
-AFRL 	Away From Real Life
-AFS 	Always, Forever and Seriously
-AGC 	Automatic Gain Control
-AGH 	Ain’t Gonna Happen
-AGM 	Annual General Meeting
-AGP 	Accelerated Graphics Port
-AGT 	America’s Got Talent (TV show)
-AGW 	All Going Well
-AI 	Artificial Intelligence As If
-AIB 	Am I Boverd?
-AIDS 	Acquired Immune Deficiency Syndrome
-AIGF 	All In Good Fun
-AIIC 	As If I Care
-AIKRN 	All I know right now
-AIMH 	Always In My Heart
-AINEC 	And It’s Not Even Close
-AIO 	All In One
-AISB 	As I Said Before
-AISI 	As I See it
-AITR 	Adult In The Room
-AITYD 	And I Think You Do
-AIUI 	As I Understand it
-AIYC 	As If You Care
-AJ 	Apple Juice
-AKTF 	Always Keep the Faith
-ALF 	Animal Liberation Front
-ALG 	Ain’t Life Grand
-ALIHAL 	At Least I Have A Life
-ALKQN 	Almighty Latin King and Queen Nation
-ALOL 	Actually Laughing Out Loud
-ALOTBSOL 	Always Look On The Bright Side Of Life
-ALU 	Arithmetic Logic Unit
-ALWP 	Actual Laughter Was Produced
-AM 	Ante Meridiem (before midday) Amplitude Modulation (radio signal)
-AMA 	Ask Me Anything Against Medical Advice
-AMAA 	Ask Me Almost Anything
-AMAP 	As Much/Many As Possible
-AMC 	American Motors Corportation
-AMD 	Advanced Micro Devices
-AMG 	Ah My God
-AML 	All My Love
-AMN 	Any Minute Now
-AMOF 	As a Matter of Fact
-AMOG 	Alpha Male Of Group
-AMT 	Alpha-Methyltryptamine
-AMV 	Anime Music Video
-AMW 	America’s Most Wanted (TV show)
-AN 	Author’s Note
-ANC 	African National Congress
-ANFAWFOS 	And Now For A Word From Our Sponsor
-ANFSCD 	And Now For Something Completely Different
-ANSI 	American National Standards Institute
-ANTM 	America’s Next Top Model
-ANZAC 	Australian and New Zealand Army Corps
-AO 	Adults Only
-AOB 	Any Other Business
-AOD 	All Of Day
-AOE 	Area Of Effect
-AOK 	Age of Kings (game) All OK
-AOM 	Age of Mythology (game)
-AON 	All Or Nothing As Of Now
-AOS 	Ahead Of Schedule
-AOT 	As Opposed To Among Other Things
-AOTA 	All Of The Above
-AOTS 	Attack of the Show (TV show)
-AOW 	All Out War
-AOYP 	Angel on Your Pillow
-AP 	Associated Press
-APB 	All Points Bulletin
-APC 	Armoured Personnel Carrier
-API 	Application Programming Interface
-APM 	Actions Per Minute
-APN 	As Per Normal
-APO 	Authorized Personnel Only
-APU 	As Per Usual
-APYR 	As Per Your Request
-AQ 	Adventure Quest (game)
-AQAP 	As Quickly As Possible
-AQF 	Ay Que Funny,
-AR 	Assault Rifle
+AAB, 	Average At Best
+AAC, 	Apple Audio Compression
+AAF, 	Always and Forever
+AAK, 	Alive And Kicking
+AAMOF, 	As A Matter Of Fact
+AAP, 	Always A Pleasure
+AAR, 	At Any Rate
+AARP, 	American Association of Retired Persons
+AAT, 	And Another Thing At All Times
+AAWY, 	And Also With You
+AAYF, 	As Always, Your Friend
+ABC, 	American Born Chinese
+ABD, 	Already Been Done
+ABDC, 	America’s Best Dance Crew (TV show)
+ABF, 	All But Face
+ABFAB, 	Absolutely Fabulous
+ABG, 	Asian Baby Girl
+ABH, 	Actual Bodily Harm
+ABP, 	Already Been Posted
+ABU, 	Anyone but (Manchester) United
+AC, 	Air Conditioning Alternating Current
+ACLU, 	American Civil Liberties Union
+ACME, 	A Company that Makes Everything
+ACP, 	Automatic Colt Pistol
+ACTA, 	Anti-Counterfeiting Trade Agreement
+ACU, 	Army Combat Uniform
+AD, 	Anno Domini (in the year of our Lord)
+ADAD, 	Another Day Another Dollar
+ADD, 	Attention Deficit Disorder
+ADED, 	All Day Every Day
+ADGTH, 	All Dogs Go To Heaven
+ADHD, 	Attention Deficit Hyperactivity Disorder
+ADL, 	All Day Long
+ADN, 	Any Day Now
+ADR, 	All Due Respect
+ADS, 	Aim(ing) Down Sights
+ADSL, 	Asymmetric Digital Subscriber Line
+ADTR, 	A Day To Remember (band)
+AE, 	American Eagle (clothing)
+AEAE, 	And Ever And Ever
+AEAP, 	As Early As Possible
+AFAIA, 	As Far As I’m Aware
+AFAIAA,	As Far As I Am Aware
+AFAIAC,	As Far As I Am Concerned
+AFAIC, 	As Far As I’m Concerned
+AFAICS, 	As Far As I Can See
+AFAICT, 	As Far As I Can Tell
+AFAIK, 	As Far As I Know
+AFAIR, 	As Far As I Remember
+AFAP, 	As Far As Possible
+AFC, 	Away From Computer
+AFFA, 	Angels Forever, Forever Angels
+AFI, 	A Fire Inside (Band)
+AFK, 	Away From Keyboard
+AFL, 	Australian Football League
+AFN, 	All For Now
+AFP, 	Away From Phone
+AFRL, 	Away From Real Life
+AFS, 	Always, Forever and Seriously
+AGC, 	Automatic Gain Control
+AGH, 	Ain’t Gonna Happen
+AGM, 	Annual General Meeting
+AGP, 	Accelerated Graphics Port
+AGT, 	America’s Got Talent (TV show)
+AGW, 	All Going Well
+AI, 	Artificial Intelligence As If
+AIB, 	Am I Boverd?
+AIDS, 	Acquired Immune Deficiency Syndrome
+AIGF, 	All In Good Fun
+AIIC, 	As If I Care
+AIKRN, 	All I know right now
+AIMH, 	Always In My Heart
+AINEC, 	And It’s Not Even Close
+AIO, 	All In One
+AISB, 	As I Said Before
+AISI, 	As I See it
+AITR, 	Adult In The Room
+AITYD, 	And I Think You Do
+AIUI, 	As I Understand it
+AIYC, 	As If You Care
+AJ, 	Apple Juice
+AKTF, 	Always Keep the Faith
+ALF, 	Animal Liberation Front
+ALG, 	Ain’t Life Grand
+ALIHAL, 	At Least I Have A Life
+ALKQN, 	Almighty Latin King and Queen Nation
+ALOL, 	Actually Laughing Out Loud
+ALOTBSOL, 	Always Look On The Bright Side Of Life
+ALU, 	Arithmetic Logic Unit
+ALWP, 	Actual Laughter Was Produced
+AM, 	Ante Meridiem (before midday) Amplitude Modulation (radio signal)
+AMA, 	Ask Me Anything Against Medical Advice
+AMAA, 	Ask Me Almost Anything
+AMAP, 	As Much/Many As Possible
+AMC, 	American Motors Corportation
+AMD, 	Advanced Micro Devices
+AMG, 	Ah My God
+AML, 	All My Love
+AMN, 	Any Minute Now
+AMOF, 	As a Matter of Fact
+AMOG, 	Alpha Male Of Group
+AMT, 	Alpha-Methyltryptamine
+AMV, 	Anime Music Video
+AMW, 	America’s Most Wanted (TV show)
+AN, 	Author’s Note
+ANC, 	African National Congress
+ANFAWFOS, 	And Now For A Word From Our Sponsor
+ANFSCD, 	And Now For Something Completely Different
+ANSI, 	American National Standards Institute
+ANTM, 	America’s Next Top Model
+ANZAC, 	Australian and New Zealand Army Corps
+AO, 	Adults Only
+AOB, 	Any Other Business
+AOD, 	All Of Day
+AOE, 	Area Of Effect
+AOK, 	Age of Kings (game) All OK
+AOM, 	Age of Mythology (game)
+AON, 	All Or Nothing As Of Now
+AOS, 	Ahead Of Schedule
+AOT, 	As Opposed To Among Other Things
+AOTA, 	All Of The Above
+AOTS, 	Attack of the Show (TV show)
+AOW, 	All Out War
+AOYP, 	Angel on Your Pillow
+AP, 	Associated Press
+APB, 	All Points Bulletin
+APC, 	Armoured Personnel Carrier
+API, 	Application Programming Interface
+APM, 	Actions Per Minute
+APN, 	As Per Normal
+APO, 	Authorized Personnel Only
+APU, 	As Per Usual
+APYR, 	As Per Your Request
+AQ, 	Adventure Quest (game)
+AQAP, 	As Quickly As Possible
+AQF, 	Ay Que Funny,
+AR, 	Assault Rifle
 	
-ARK 	Act of Random Kindness
-ARPA 	Advanced Research Projects Agency (made early internet)
-ARPANET 	Advanced Research Projects Agency Network (early internet)
-ARPU 	Average Revenue Per User
-ASAIC 	As Soon As I Can
-ASAIK 	As Soon As I Know
-ASAP 	As Soon As Possible
-ASAS 	As Soon As Sensible
-ASAT 	As Simple As That
-ASAYC 	As Soon As You Can
-ASBO 	Anti Social Behaviour Order
-ASCII 	American Standard Code for Information Interchange
-ASPCA 	American Society for the Prevention of Cruelty to Animals
-AT&T 	American Telephone & Telegraph
-ATA 	Ait To Air Actual Time of Arrival
-ATAP 	Any Time, Any Place
-ATB 	All The Best
-ATC 	Air Traffic Control
-ATD 	Attention to Detail
-ATEOTD 	At The End Of The Day
-ATF 	All Time Favorite
-ATGATT 	All The Gear All The Time (motorcycling)
-ATH 	All Time High
-ATM 	At The Moment Automated Teller Machine (cash machine)
-ATMO 	According To My Opinion
-ATN 	Any Time Now
-ATOY 	Always Thinking of you
-ATQ 	Answer The Question
-ATST 	At The Same Time
-ATT 	At This Time All The Time
-ATTT 	Ain’t That The Truth
-ATV 	All Terrain Vehicle
-ATVB 	All The Very Best
-ATW 	All The Way
-ATWA 	Air, Trees, Water, Animals  All The Way Alive
-Text Abbreviations (B)
-Acronym 	Meaning
-BAC 	Back At Computer Blood Alcohol Content By Any Chance
-BACS 	Bankers Automated Clearing System
-BAGL 	Bust A Gut Laughing
-BAH 	Bored As Hell
-BB 	Big Brother Be Back
-BB4N 	Bye-Bye For Now
-BBAM 	Be Back After Meal
-BBB 	Bugging Beyond Belief
-BBBW 	Big Beautiful Black Woman
-BBC 	British Broadcasting Corporation
-BBEG 	Big Bad Evil Guy
-BBFL 	Best Buds For Life
-BBFN 	Bye Bye For Now
-BBG 	Best Be Going
-BBIAB 	Be Back In A Bit
-BBIAF 	Be Back In A Few
-BBIAM 	Be Back In A Minute
-BBIAS 	Be Back In A Sec
-BBIAW 	Be Back In A While
-BBK 	Boy Better Know
-BBL 	Be Back Later
-BBM 	Blackberry Messaging
-BBML 	Be Back Much Later
-BBN 	Be Back Never
-BBO 	Being Bored Online
-BBQ 	Barbecue Better Be Quick
-BBR 	Blonde, Brunette, Redhead
-BBS 	Be Back Soon Bulletin Board System
-BBT 	Be Back Tomorrow
-BBV 	Brags Beats and Variance (poker)
-BBW 	Big Beautiful Woman
-BBWL 	Be Back Way Later
-BC 	Before Christ
-BCBW 	Bow Chica Bow Wow
-BCC 	Blind Carbon Copy
-BCD 	Behind Closed Doors
-BCE 	Before Common Era (like  )
-BCF 	Best Cousin Forever
-BCG 	Birth Control Glasses
-BCS 	Bowl Championship Series
-BD 	Big Deal
-BDN 	Busy Doing Nothing
-BDOML 	Best Day Of My Life
-BDU 	Brain Dead User Battle Dress Uniform
-BFA 	Best Friends Always
-BFAB 	Born From A Boombox Back For A Bit
-BFAM 	Brother From Another Mother
-BFB 	Better From Behind
-BFF 	Best Friends Forever Big Fat Friend/Female
-	
-BFFAE 	Best Friends Forever And Ever Best Friends For All Eternity
-	
-BFFL 	Best Friend For Life
-BFFLE 	Best Friends For Like Ever
-BFFLTDDUP 	Best Friends For Life Till Death Do Us Part
-BFFN 	Best Friend For Now
-BFFWB 	Best Friend Forever With Benefits
-BFITW 	Best Friend In The World
-BFK 	Big Fat Kiss
-BFMV 	Bullet For My Valentine (band)
-BFN 	Bye For Now
-BFP 	Bad For Pics Big Fat Positive ie pregnant
-BFTP 	Blast From The Past
-BFUT 	Best Friends Until Tomorrow
-BFWB 	Best Friend With Benefits
-BG 	Bad Game Baby Gangster
-BGD 	Black Gangster Disciples
-BGF 	Best Girl/Guy Friend
-BGL 	Big Game License, likes fat people
-BGM 	Background Music
-BGT 	Britain’s Got Talent (TV show)
-BH 	Be Happy Bloody Hell Big Head
-BHD 	Bad Hair Day
-BHH 	Bless His/Her Heart
-BHL8 	Be Home Late
-BHM 	Big Handsome Man
-BHO 	Barak Hussein Obama
-BHS 	Be Home Soon
-BIAB 	Back In A Bit
-BIC 	Believe It Comrade
-BICBW 	But I Could Be Wrong
-BIEH 	Best I Ever Had
-BIFFL 	Best Internet Friend For Life
-BING 	But It’s Not Google
-BM 	Bowel Movement Black Man BMW
-BM4L 	Best Mates For Life
-BMAK 	Blow Me A Kiss
-BMB 	Bebo Me Back
-BMBO 	Blow My Brains Out
-BME 	Body Modification Ezine
-BMFE 	Best Mates Forever
-BMFL 	Best Mates For Life
-BMG 	Be My Guest
-BMI 	Body Mass Index
-BML 	Bless My Life
-BMOC 	Big Man On Campus
-BMS 	Bitchy Men Syndrome
-BMT 	Before My Time Basic Military Training
-BMTH 	Bring Me The Horizon (Band)
-BMTTVE 	Best Mates ‘Til The Very End
-BMUS 	Beam me up, Scotty
-BMV 	Be My Valentine
-BMW 	Bavarian Motor Works (car manufacturer)
-BMX 	Bicycle Motocross
-BNB 	Bad News Bears Bed ‘N’ Breakfast Bread ‘N’ Butter
-BNF 	Big Name Fan
-BNI 	Batteries Not Included
-BNIB 	Brand New In Box
-BNOC 	Big Name On Campus
-BNP 	British National Party
-BNR 	But Not Really
-BNWOT 	Brand New Without Tags
-BNWT 	Brand New With Tags
-BO 	Body Odour
-BOAT 	Bust Out Another Thousand
-	
-BOBFOC 	Body Off Baywatch, Face Off Crimewatch
-BOED 	Book of Exalted Deeds ( )
-BOGO 	Buy One Get One
-BOGOF 	Buy One Get One Free
-BOGSAT 	Bunch Of Guys Sitting Around Talking
-Text Abbreviations (C)
-Acronym 	Meaning
-CC 	Credit Card Carbon Copy Crowd Control Country Code
-CCC 	Coricidin Cough & Cold (Dextromethorophan or DXM).
-CCG 	Collectible Card Game
-CCIE 	Cisco Certified Internetwork Expert
-CCL 	Couldn’t Care Less
-CCNA 	Cisco Certified Network Associate
-CCR 	Creedence Clearwater Revival (band)
-CCTV 	Closed-Circuit Television
-CCW 	Counterclockwise Carrying a Concealed Weapon
-CD 	Compact Disc Cross Dresser
-CDC 	Cult of the Dead Cow Crudely Drawn Cock
-CDMA 	Code Division Multiple Access (voice/data transmission)
-CD-RW 	Compact Disk Rewritable
-CLWY 	Can’t Live Without You
-CM 	Call Me
-CMAR 	Cry Me A River
-CMB 	Call Me Back
-CME 	Close My Eyes
-CMEO 	Crying My Eyes Out
-CMH 	Cross My Heart
-CMHO 	Cry My Heart Out
-CMI 	Count Me In
-CMIIW 	Correct Me If I’m wrong.
-CMIYC 	Catch Me If You Can
-CML 	Call Me Later
-CMN 	Call Me Now
-CMOS 	Complementary Metal-Oxide Semiconductor
-CMS 	Content Management System
-CMU 	Cracks Me Up
-CMYK 	Cyan, Magenta, Yellow, Key/blacK
-CNN 	Cable News Network
-CNY 	Chinese New Year
-CO 	Commanding Officer Corrections Officer Company Counter Offer
-COA 	Certificate Of Authenticity
-COD 	Cash On Delivery  Call Of Duty
-COL 	Crying Out Loud
-CRB 	Criminal Records Bureau (UK)
-CRBT 	Crying Real Big Tears
-CWTSY 	Can’t Wait To See You
-CWYL 	Chat With You Later.
-CYB 	Count Your Blessings
-CYBI 	Can You Believe It?
-CYDI 	Can You Dig It?
-CYDM 	Check Your Direct Messages
-CYE 	Check Your Email
-CYF 	Cross Your Fingers
-CYL 	Catch You Later
-CYM 	Check Your Mail
-Text Abbreviations (D)
-Acronym 	Meaning
-DLN 	Don’t Look Now
-DLS 	Dirty Little Secret
-DLTBBB 	Don’t Let The Bed Bugs Bite
-DLTBGYD 	Don’t Let The Bastards Grind You Down
-DLTM 	Don’t Lie To Me
-DLV 	Demonstration of Lower Value
-DM 	Don’t Mind Doesn’t Matter Direct Message
-DMAF 	Don’t Make A Fuss
-DMAL 	Drop Me A Line
-DMB 	Dave Matthews Band
-DMC 	Deep Meaningful Conversation
-DMCA 	Digital Millennium Copyright Act
-DMI 	Don’t Mention It
-DMIID 	Don’t Mind If I Do
-DMM 	Don’t Mind Me
-DMML 	Don’t Make Me Laugh
-DMS 	Dirty Money Syndicate
-DMT 	Di-Methyl Tryptamine (drug)
-DMTA 	Dirty Minds Think Alike
-DMV 	Department of Motor Vehicles
-DMW 	Dead Man Walking
-DMX 	Dark Man X (rapper)
-DMY 	Don’t Mess Yourself
-DMZ 	De-militarized zone
-DN 	Doing Nothing
-DNA 	Deoxyribonucleic Acid Did Not Attend Does Not Apply
-DNC 	Democratic National Committee
-DND 	Do Not Disturb
-DNDC 	Don’t Know, Don’t Care
-DNE 	Do Not Erase Does Not Exist
-DNF 	Did Not Finish
-DNFTT 	Do Not Feed The Troll
-DNK 	Do Not Know
-DNM 	Does Not Matter Deep and Meaningful
-DNP 	Do Not Post
-DNR 	Do Not Resuscitate
-DNS 	Domain Name Service Did Not Start
-DNTK 	Don’t Need To Know
-DNW 	Do Not Want
-DOA 	Dead On Arrival Deteriorate On Approach
-DOB 	Date Of Birth
-DOC 	Doctor Drug of Choice
-DOD 	Day of Defeat
-DOE 	Depends On Experience
-DOF 	Depth of Field
-DOFL 	Dying On Floor Laughing
-DRT 	Dead Right There
-DS 	Darling Son
-DSD 	Do Some Damage
-DSL 	Digital Subscriber Line
-DSLR 	Digital Single Lens Reflex (camera)
-DSP 	Digital Signal Processing
-DSS 	Department of Social Services
-DST 	Daylight Saving Time
-DT 	Down Town
-DTA 	Don’t Trust Anyone
-DTAM 	Death To All Men
-DTB 	Don’t Text Back
-DTC 	Down To Cuddle
-DTD 	Drunk Till Dawn Drunk Till Death
-DTE 	Down To Earth
-DTH 	Down To Hang
-DTL 	Does The Look
-DTM 	Doing Too Much Dead To Me
-DTMS 	Does That Make Sense?
-DTMWTD 	Don’t Tell Me What To Do
-DTP 	Disturbing The Peace
-DTR 	Define The Relationship
-DTRT 	Do The Right Thing
-DTS 	Down The Shore Down To Snuggle
-DTT 	Don’t Touch That
-DTTC 	Don’t Text The Cell
-DTTM 	Don’t Talk To Me
-DTYT 	Don’t Take Your Time
-Text Abbreviations (E)
-Acronym 	Meaning
-EBM 	Electronic Body Music
-EBT 	Electronic Benefits Transfer
-ELOL 	Evil Laugh Out Loud
-EOB 	End Of Business
-EOC 	End Of Conversion
-EOD 	End Of Discussion
-EOE 	Equal Opportunity Employer
-EOF 	End Of File
-EOG 	End Of Grade
-EOL 	End Of Lecture
-EOM 	End Of Message
-EOR 	End Of Rant
-EOS 	End Of Show
-EOT 	End Of Thread (i.e. end of discussion)
-EOTD 	End Of The Day
-EOTW 	End Of The World
-    121 = One-to-one (private chat initiation)
-    2day = Today
-    2M2H = Too Much Too Handle
-    2moro = Tomorrow
-    2nite = Tonight
+ARK, 	Act of Random Kindness
+ARPA, 	Advanced Research Projects Agency (made early internet)
+ARPANET, 	Advanced Research Projects Agency Network (early internet)
+ARPU, 	Average Revenue Per User
+ASAIC, 	As Soon As I Can
+ASAIK, 	As Soon As I Know
+ASAP, 	As Soon As Possible
+ASAS, 	As Soon As Sensible
+ASAT, 	As Simple As That
+ASAYC, 	As Soon As You Can
+ASBO, 	Anti Social Behaviour Order
+ASCII, 	American Standard Code for Information Interchange
+ASPCA, 	American Society for the Prevention of Cruelty to Animals
+AT&T, 	American Telephone & Telegraph
+ATA, 	Ait To Air Actual Time of Arrival
+ATAP, 	Any Time, Any Place
+ATB, 	All The Best
+ATC, 	Air Traffic Control
+ATD, 	Attention to Detail
+ATEOTD, 	At The End Of The Day
+ATF, 	All Time Favorite
+ATGATT, 	All The Gear All The Time (motorcycling)
+ATH, 	All Time High
+ATM, 	At The Moment Automated Teller Machine (cash machine)
+ATMO, 	According To My Opinion
+ATN, 	Any Time Now
+ATOY, 	Always Thinking of you
+ATQ, 	Answer The Question
+ATST, 	At The Same Time
+ATT, 	At This Time All The Time
+ATTT, 	Ain’t That The Truth
+ATV, 	All Terrain Vehicle
+ATVB, 	All The Very Best
+ATW, 	All The Way
+//ATWA, 	Air Trees Water Animals  All The Way Alive
+
+BAC, 	Back At Computer Blood Alcohol Content By Any Chance
+BACS, 	Bankers Automated Clearing System
+BAGL, 	Bust A Gut Laughing
+BAH, 	Bored As Hell
+BB, 	Be Back
+BB4N, 	Bye-Bye For Now
+BBAM, 	Be Back After Meal
+BBB, 	Bugging Beyond Belief
+BBBW, 	Big Beautiful Black Woman
+BBC, 	British Broadcasting Corporation
+BBEG, 	Big Bad Evil Guy
+BBFL, 	Best Buds For Life
+BBFN, 	Bye Bye For Now
+BBG, 	Best Be Going
+BBIAB, 	Be Back In A Bit
+BBIAF, 	Be Back In A Few
+BBIAM, 	Be Back In A Minute
+BBIAS, 	Be Back In A Sec
+BBIAW, 	Be Back In A While
+BBK, 	Boy Better Know
+BBL, 	Be Back Later
+BBM, 	Blackberry Messaging
+BBML, 	Be Back Much Later
+BBN, 	Be Back Never
+BBO, 	Being Bored Online
+BBQ, 	Barbecue Better Be Quick
+BBR, 	Blonde, Brunette, Redhead
+BBS, 	Be Back Soon Bulletin Board System
+BBT, 	Be Back Tomorrow
+BBV, 	Brags Beats and Variance (poker)
+BBW, 	Big Beautiful Woman
+BBWL, 	Be Back Way Later
+BC, 	Before Christ
+BCBW, 	Bow Chica Bow Wow
+BCC, 	Blind Carbon Copy
+BCD, 	Behind Closed Doors
+BCE, 	Before Common Era (like  )
+BCF, 	Best Cousin Forever
+BCG, 	Birth Control Glasses
+BCS, 	Bowl Championship Series
+BD, 	Big Deal
+BDN, 	Busy Doing Nothing
+BDOML, 	Best Day Of My Life
+BDU, 	Brain Dead User Battle Dress Uniform
+BFA, 	Best Friends Always
+BFAB, 	Born From A Boombox Back For A Bit
+BFAM, 	Brother From Another Mother
+BFB, 	Better From Behind
+BFF, 	Best Friends Forever Big Fat Friend/Female
+BFFAE, 	Best Friends Forever And Ever Best Friends For All Eternity
+BFFL, 	Best Friend For Life
+BFFLE, 	Best Friends For Like Ever
+BFFLTDDUP, 	Best Friends For Life Till Death Do Us Part
+BFFN, 	Best Friend For Now
+BFFWB, 	Best Friend Forever With Benefits
+BFITW, 	Best Friend In The World
+BFK, 	Big Fat Kiss
+BFMV, 	Bullet For My Valentine (band)
+BFN, 	Bye For Now
+BFP, 	Bad For Pics Big Fat Positive ie pregnant
+BFTP, 	Blast From The Past
+BFUT, 	Best Friends Until Tomorrow
+BFWB, 	Best Friend With Benefits
+BG, 	Bad Game Baby Gangster
+BGD, 	Black Gangster Disciples
+BGF, 	Best Girl/Guy Friend
+BGL, 	Big Game License, likes fat people
+BGM, 	Background Music
+BGT, 	Britain’s Got Talent (TV show)
+BH, 	Be Happy Bloody Hell Big Head
+BHD, 	Bad Hair Day
+BHH, 	Bless His/Her Heart
+BHL8, 	Be Home Late
+BHM, 	Big Handsome Man
+BHO, 	Barak Hussein Obama
+BHS, 	Be Home Soon
+BIAB, 	Back In A Bit
+BIC, 	Believe It Comrade
+BICBW, 	But I Could Be Wrong
+BIEH, 	Best I Ever Had
+BIFFL, 	Best Internet Friend For Life
+BING, 	But It’s Not Google
+BM, 	Bowel Movement Black Man BMW
+BM4L, 	Best Mates For Life
+BMAK, 	Blow Me A Kiss
+BMB, 	Bebo Me Back
+BMBO, 	Blow My Brains Out
+BME, 	Body Modification Ezine
+BMFE, 	Best Mates Forever
+BMFL, 	Best Mates For Life
+BMG, 	Be My Guest
+BMI, 	Body Mass Index
+BML, 	Bless My Life
+BMOC, 	Big Man On Campus
+BMS, 	Bitchy Men Syndrome
+BMT, 	Before My Time Basic Military Training
+BMTH, 	Bring Me The Horizon (Band)
+BMTTVE, 	Best Mates ‘Til The Very End
+BMUS, 	Beam me up, Scotty
+BMV, 	Be My Valentine
+BMW, 	Bavarian Motor Works (car manufacturer)
+BMX, 	Bicycle Motocross
+BNB, 	Bad News Bears Bed ‘N’ Breakfast Bread ‘N’ Butter
+BNF, 	Big Name Fan
+BNI, 	Batteries Not Included
+BNIB, 	Brand New In Box
+BNOC, 	Big Name On Campus
+BNP, 	British National Party
+BNR, 	But Not Really
+BNWOT, 	Brand New Without Tags
+BNWT, 	Brand New With Tags
+BO, 	Body Odour
+BOAT, 	Bust Out Another Thousand
+BOBFOC,	Body Off Baywatch, Face Off Crimewatch
+BOED, 	Book of Exalted Deeds ( )
+BOGO, 	Buy One Get One
+BOGOF, 	Buy One Get One Free
+BOGSAT, 	Bunch Of Guys Sitting Around Talking
+
+CC, 	Credit Card / Carbon Copy / Crowd Control / Country Code
+CCC, 	Coricidin Cough & Cold (Dextromethorophan or DXM).
+CCG, 	Collectible Card Game
+CCIE, 	Cisco Certified Internetwork Expert
+CCL, 	Couldn’t Care Less
+CCNA, 	Cisco Certified Network Associate
+CCR, 	Creedence Clearwater Revival (band)
+CCTV, 	Closed-Circuit Television
+CCW, 	Counterclockwise Carrying a Concealed Weapon
+CD, 	Compact Disc
+CDC, 	Cult of the Dead Cow Crudely Drawn Cock
+CDMA, 	Code Division Multiple Access (voice/data transmission)
+CD-RW, 	Compact Disk Rewritable
+CLWY, 	Can’t Live Without You
+CM, 	Call Me
+CMAR, 	Cry Me A River
+CMB, 	Call Me Back
+CME, 	Close My Eyes
+CMEO, 	Crying My Eyes Out
+CMH, 	Cross My Heart
+CMHO, 	Cry My Heart Out
+CMI, 	Count Me In
+CMIIW, 	Correct Me If I’m wrong.
+CMIYC, 	Catch Me If You Can
+CML, 	Call Me Later
+CMN, 	Call Me Now
+CMOS, 	Complementary Metal-Oxide Semiconductor
+CMS, 	Content Management System
+CMU, 	Cracks Me Up
+CMYK, 	Cyan, Magenta, Yellow, Key/blacK
+CNN, 	Cable News Network
+CNY, 	Chinese New Year
+CO, 	Commanding Officer Corrections Officer Company Counter Offer
+COA, 	Certificate Of Authenticity
+COD, 	Cash On Delivery  Call Of Duty
+COL, 	Crying Out Loud
+CRB, 	Criminal Records Bureau (UK)
+CRBT, 	Crying Real Big Tears
+CWTSY, 	Can’t Wait To See You
+CWYL, 	Chat With You Later.
+CYB, 	Count Your Blessings
+CYBI, 	Can You Believe It?
+CYDI, 	Can You Dig It?
+CYDM, 	Check Your Direct Messages
+CYE, 	Check Your Email
+CYF, 	Cross Your Fingers
+CYL, 	Catch You Later
+CYM, 	Check Your Mail
+
+DLN, 	Don’t Look Now
+DLS, 	Dirty Little Secret
+DLTBBB, 	Don’t Let The Bed Bugs Bite
+DLTBGYD, 	Don’t Let The Bastards Grind You Down
+DLTM, 	Don’t Lie To Me
+DLV, 	Demonstration of Lower Value
+DM, 	Don’t Mind Doesn’t Matter Direct Message
+DMAF, 	Don’t Make A Fuss
+DMAL, 	Drop Me A Line
+DMB, 	Dave Matthews Band
+DMC, 	Deep Meaningful Conversation
+DMCA, 	Digital Millennium Copyright Act
+DMI, 	Don’t Mention It
+DMIID, 	Don’t Mind If I Do
+DMM, 	Don’t Mind Me
+DMML, 	Don’t Make Me Laugh
+DMS, 	Dirty Money Syndicate
+DMT, 	Di-Methyl Tryptamine (drug)
+DMTA, 	Dirty Minds Think Alike
+DMV, 	Department of Motor Vehicles
+DMW, 	Dead Man Walking
+DMX, 	Dark Man X (rapper)
+DMY, 	Don’t Mess Yourself
+DMZ, 	De-militarized zone
+DN, 	Doing Nothing
+DNA, 	Deoxyribonucleic Acid Did Not Attend Does Not Apply
+DNC, 	Democratic National Committee
+DND, 	Do Not Disturb
+DNDC, 	Don’t Know, Don’t Care
+DNE, 	Do Not Erase Does Not Exist
+DNF, 	Did Not Finish
+DNFTT, 	Do Not Feed The Troll
+DNK, 	Do Not Know
+DNM, 	Does Not Matter Deep and Meaningful
+DNP, 	Do Not Post
+DNR, 	Do Not Resuscitate
+DNS, 	Domain Name Service Did Not Start
+DNTK, 	Don’t Need To Know
+DNW, 	Do Not Want
+DOA, 	Dead On Arrival Deteriorate On Approach
+DOB, 	Date Of Birth
+DOC, 	Doctor Drug of Choice
+DOD, 	Day of Defeat
+DOE, 	Depends On Experience
+DOF, 	Depth of Field
+DOFL, 	Dying On Floor Laughing
+DRT, 	Dead Right There
+DS, 	Darling Son
+DSD, 	Do Some Damage
+DSL, 	Digital Subscriber Line
+DSLR, 	Digital Single Lens Reflex (camera)
+DSP, 	Digital Signal Processing
+DSS, 	Department of Social Services
+DST, 	Daylight Saving Time
+DT, 	Down Town
+DTA, 	Don’t Trust Anyone
+DTAM, 	Death To All Men
+DTB, 	Don’t Text Back
+DTC, 	Down To Cuddle
+DTD, 	Drunk Till Dawn Drunk Till Death
+DTE, 	Down To Earth
+DTH, 	Down To Hang
+DTL, 	Does The Look
+DTM, 	Doing Too Much Dead To Me
+DTMS, 	Does That Make Sense?
+DTMWTD, 	Don’t Tell Me What To Do
+DTP, 	Disturbing The Peace
+DTR, 	Define The Relationship
+DTRT, 	Do The Right Thing
+DTS, 	Down The Shore Down To Snuggle
+DTT, 	Don’t Touch That
+DTTC, 	Don’t Text The Cell
+DTTM, 	Don’t Talk To Me
+DTYT, 	Don’t Take Your Time
+EBM, 	Electronic Body Music
+EBT, 	Electronic Benefits Transfer
+ELOL, 	Evil Laugh Out Loud
+EOB, 	End Of Business
+EOC, 	End Of Conversion
+EOD, 	End Of Discussion
+EOE, 	Equal Opportunity Employer
+EOF, 	End Of File
+EOG, 	End Of Grade
+EOL, 	End Of Lecture
+EOM, 	End Of Message
+EOR, 	End Of Rant
+EOS, 	End Of Show
+EOT, 	End Of Thread (i.e. end of discussion)
+EOTD, 	End Of The Day
+EOTW, 	End Of The World
+**************************************************
+121 = One-to-one (private chat initiation)
+2day = Today
+2M2H = Too Much Too Handle
+2moro = Tomorrow
+2nite = Tonight
     4EAE = For Ever And Ever
     AAF = As A Friend
     AAR = At Any Rate
