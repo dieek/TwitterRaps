@@ -31,6 +31,7 @@ Stack:
   1. Browser framework options: Vue, React - undecided
   2. Server options: PHP, Node - Undecided, based on how well synology supports
     a. Node.js 12.x used on Synology NAS - docs https://nodejs.org/docs/latest-v12.x/api/ 
+    b. Additional "how to" for node website https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
   3. Database options: SQL, SQL Lite, MongoDB
     a. Possibly MariaDB based on the work of this particular project: https://github.com/StephanThierry/nodejs4synologynas
 
