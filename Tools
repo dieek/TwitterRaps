@@ -30,6 +30,7 @@ Software:
 Stack:
   1. Browser framework options: Vue, React - undecided
   2. Server options: PHP, Node - Undecided, based on how well synology supports
+    a. https://nodejs.org/en/docs/guides/getting-started-guide/ 
   3. Database options: SQL, SQL Lite, MongoDB - undecided
 
 Hardware:
